@@ -1,0 +1,17 @@
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\bin\Release\BluetoothConnection.dll
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\bin\Release\BluetoothConnection.pdb
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\bin\Release\BluetoothConnection.pri
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\BluetoothConnection.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\BluetoothConnection.dll
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\BluetoothConnection.pdb
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\priconfig.xml
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\priconfig.xml.intermediate
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\layout.resfiles
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\layout.resfiles.intermediate
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\resources.resfiles
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\resources.resfiles.intermediate
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\pri.resfiles
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\pri.resfiles.intermediate
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\qualifiers.txt
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\qualifiers.txt.intermediate
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection\obj\Release\MultipleQualifiersPerDimensionFound.txt

@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection.Editor\obj\Release\BluetoothConnection.Editor.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection.Editor\bin\Release\BluetoothConnection.dll
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection.Editor\bin\Release\BluetoothConnection.pdb
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection.Editor\obj\Release\BluetoothConnection.dll
+\\mac\home\documents\visual studio 2015\Projects\BluetoothConnection\BluetoothConnection.Editor\obj\Release\BluetoothConnection.pdb
